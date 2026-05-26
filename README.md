@@ -1,12 +1,11 @@
 # daily-log
 
-a running log of what i'm building, breaking, and figuring out.
+Personal log to track development progress, notes, and learnings over time.
 
-## stack i'm currently working with
-- React
-- Python
-- Git (obviously)
+## Current Focus
+- React component architecture
+- Python scripting
+- DSA practice
 
-## recent stuff
-- setting up this repo to track progress
-- been messing around with component structure
+## Log Format
+Each entry documents what was worked on, blockers faced, and key takeaways.
