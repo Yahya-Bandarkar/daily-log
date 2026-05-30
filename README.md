@@ -15,3 +15,4 @@ A daily log of tasks, learnings, and progress — one entry per day, no fluff.
 Consistency is the goal. Every day counts.
 ```
 Built in public, for accountability and growth.
+Small notes today, big picture tomorrow.
